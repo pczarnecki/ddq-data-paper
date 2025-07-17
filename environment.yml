@@ -388,4 +388,3 @@ dependencies:
       - threadpoolctl==3.5.0
       - tifffile==2024.5.22
       - typhon==0.9.0
-prefix: /home/pc2943/miniforge3/envs/ddq_fluxsim_tutorial
