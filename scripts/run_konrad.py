@@ -5,7 +5,6 @@ os.environ['KONRAD_LOOKUP_TABLE_LW']=path/to/lw/lut
 os.environ['KONRAD_LOOKUP_TABLE_SW']=path/to/sw/lut
 os.environ['ARTS_DATA_PATH'] = path/to/arts_cat_data
 import numpy as np
-import matplotlib.pyplot as plt
 from scipy.constants import speed_of_light as c
 import xarray as xr
 import seaborn as sns

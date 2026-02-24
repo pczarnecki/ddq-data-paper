@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 import colorcet as cc
 from scipy.constants import speed_of_light as c
 import xarray as xr

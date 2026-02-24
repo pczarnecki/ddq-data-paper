@@ -193,4 +193,4 @@ for idx in indeces:
         ),
     )
 
-    rrms_errors.to_netcdf('savename.nc')
+    rrms_errors.to_netcdf(save/name.nc)

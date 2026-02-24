@@ -2,6 +2,7 @@
 # RRTMGP results are generated using the pyRTE-RRTMGP Python wrapper for RRTMGP
 
 import numpy as np
+import scipy as sp
 
 from pyrte_rrtmgp import rrtmgp_gas_optics
 from pyrte_rrtmgp.data_types import (
