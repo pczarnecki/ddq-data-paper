@@ -6,5 +6,5 @@ This repository contains the information necessary to produce the quadrature sch
 	- Additional optimizations are available in the subfolder `Additional configurations`.
 	- Lookup tables for the 4 main configurations are available in the subfolder `LUTs`.
 - `figures` contains the figures in *Czarnecki and Brath.* 
-	- `Generate Figures.ipynb` creates these plots
+	- `Generate Figures.ipynb` creates Figs. 1-3 and 7
 - `Tutorial.ipynb` describes the full process of optimizing a quadrature scheme, including creating a training dataset of line-by-line fluxes with the `FluxSimulator` ARTS module, writing the cost functions, setting up the training data and running the optimization procedure via Python package `datadrivenquadrature`.
